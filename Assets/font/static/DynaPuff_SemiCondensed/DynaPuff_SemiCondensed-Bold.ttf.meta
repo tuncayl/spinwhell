@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 165568bf655473241861e4141ab4b268
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DynaPuff SemiCondensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d3daac8c042d09247a49dd278e1ccb81, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,16 @@
+URP Compatibility
+-----------------
+
+The 'ETFX 2019.4.24f1 URP Upgrade' should work for 2019.4 and up.
+
+-----------------
+
+Do you have invisible particles? This may be because the materials have Soft Particles on. Enable Depth Texture in your SRP settings which can be found in the 'Edit/Project Settings/Graphics' menu. Also make sure that 'Depth Texture' on your Main Camera is enabled. 
+
+Alternatively, for better performance, you can disable Soft Particles in the Materials.
+
+-----------------
+
+If you have issues with the effects after upgrading to URP, I recommend that you have the latest URP version in Package Manager!
+
+Still having problems? Reach out here: https://archanor.com/support.html
